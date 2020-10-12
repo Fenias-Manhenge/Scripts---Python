@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93fc8ffc-af48-4923-94ac-65e7d25df3dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/007.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.006">
+  <component name="RunManager" selected="Python.007">
     <configuration name="004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scripts - Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Excercise 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scripts - Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercise 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.007" />
         <item itemvalue="Python.006" />
         <item itemvalue="Python.005" />
         <item itemvalue="Python.004" />
         <item itemvalue="Python.Exercise 3" />
-        <item itemvalue="Python.Excercise 1" />
       </list>
     </recent_temporary>
   </component>
@@ -177,21 +177,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602524158453" />
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1602534837976">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1602535145834">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602534837976" />
-    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1602534837976">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602535145834" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1602535145834">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602534837976" />
-    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1602534837976">
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602535145834" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1602535145834">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602534837976" />
-    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1602534837976">
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602535145834" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1602535145834">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602534837976" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602535145834" />
   </component>
 </project>
